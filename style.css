@@ -3,7 +3,8 @@
 body {
   font-family: "Raleway", sans-serif;
   height: 100vh;
-  /* background: #333 url("showcase.jpg") no-repeat center center / cover; */
+  background: #333 no-repeat center center / cover;
+  /* url("showcase.jpg") */
   color: #ccc;
   overflow: hidden;
 }
