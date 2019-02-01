@@ -32,9 +32,9 @@ h2 {
 }
 
 /* Cursor */
-/* .txt-type > .txt {
+.txt-type > .txt {
   border-right: 0.2rem solid #777;
-} */
+}
 
 /* Media Queries */
 @media (min-width: 1200px) {
